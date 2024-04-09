@@ -1,6 +1,6 @@
 # Git Server
 server with express
 
-# download
+## download
 - npm i
 - create .env file
