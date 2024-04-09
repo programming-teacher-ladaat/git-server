@@ -12,4 +12,5 @@ router.post('/signup', signUp)
 
 router.put('/:id', auth, updateUser);
 
+
 module.exports = router;
